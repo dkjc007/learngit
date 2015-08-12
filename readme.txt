@@ -1,1 +1,1 @@
-jikexueyuan  我正在学习使用git
+jikexueyuan  我正在熟练使用git
